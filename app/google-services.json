@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045202479431",
+    "firebase_url": "https://notes-174ea-default-rtdb.firebaseio.com",
+    "project_id": "notes-174ea",
+    "storage_bucket": "notes-174ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045202479431:android:ba3d35dee2c0b3ed7d0462",
+        "android_client_info": {
+          "package_name": "kz.diplom.notes.atantayev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045202479431-fu0gvf8dhchmj5jc3tl9gsfmsj0dskiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7qPvoTPhvdTwWzp-01CiKnXsgGwsMXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045202479431-fu0gvf8dhchmj5jc3tl9gsfmsj0dskiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
